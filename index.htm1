@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>আল-নূর মাদরাসা</title>
+  <style>
+    body {
+      font-family: 'Siyam Rupali', sans-serif;
+      background: #f5f5f5 url('https://i.imgur.com/IwZCvOB.jpeg') no-repeat center center fixed;
+      background-size: cover;
+      color: #fff;
+      text-align: center;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: rgba(0, 0, 0, 0.6);
+      padding: 20px;
+    }
+    h1 {
+      font-size: 2.5em;
+      margin: 0;
+    }
+    .verse, .about, .contact {
+      background-color: rgba(0, 0, 0, 0.6);
+      margin: 20px auto;
+      padding: 20px;
+      max-width: 700px;
+      border-radius: 10px;
+    }
+    img.madrasa-photo {
+      width: 100%;
+      max-width: 600px;
+      border-radius: 10px;
+      margin-top: 15px;
+    }
+    footer {
+      background: rgba(0, 0, 0, 0.8);
+      padding: 10px;
+      font-size: 0.9em;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>আল-নূর ইসলামিক মাদরাসা</h1>
+  </header>
+
+  <section class="verse">
+    <h2>📖 কুরআনের আয়াত</h2>
+    <p style="font-size: 1.2em;">إِنَّ مَعَ الْعُسْرِ يُسْرًا</p>
+    <p>“নিশ্চয় কষ্টের সাথে আছে স্বস্তি।”<br>— সূরা আশ-শারহ: ৬</p>
+  </section>
+
+  <section class="about">
+    <h2>আমাদের সম্পর্কে</h2>
+    <p>আল-নূর মাদরাসা একটি ইসলামী শিক্ষা প্রতিষ্ঠান, যেখানে কুরআন শিক্ষা, হাদীস অধ্যয়ন এবং নৈতিক উন্নয়নের উপর জোর দেওয়া হয়।</p>
+    <img class="madrasa-photo" src="https://i.imgur.com/V0yPoUS.jpeg" alt="Madrasah Photo" />
+  </section>
+
+  <section class="contact">
+    <h2>যোগাযোগ</h2>
+    <p>ঠিকানা: পূর্ব বাজার, ঢাকেশ্বরী রোড, ঢাকা<br>
+    মোবাইল: ০১৭১২৩৪৫৬৭৮<br>
+    ইমেইল: alnur@example.com</p>
+  </section>
+
+  <footer>
+    &copy; ২০২৫ আল-নূর মাদরাসা | সর্বস্বত্ব সংরক্ষিত
+  </footer>
+</body>
+</html>
